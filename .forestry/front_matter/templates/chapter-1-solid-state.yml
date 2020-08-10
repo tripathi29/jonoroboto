@@ -1,6 +1,7 @@
 ---
 label: 'chapter 1 solid state '
 hide_body: true
+display_field: theme
 fields:
 - type: text
   name: author
