@@ -3,11 +3,11 @@ label: 'chapter 1 solid state '
 hide_body: true
 fields:
 - type: text
-  name: DefaultContentLanguage
-  label: DefaultContentLanguage
-- type: text
   name: author
   label: author
+- type: text
+  name: DefaultContentLanguage
+  label: DefaultContentLanguage
 - type: text
   name: baseURL
   label: baseURL
