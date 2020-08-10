@@ -122,6 +122,11 @@ fields:
     - type: boolean
       name: privacyEnhanced
       label: privacyEnhanced
+    - name: chapter_1_solid_state_
+      type: file
+      config:
+        maxSize: 64
+      label: www.tripathi.co.in
 - type: field_group
   name: services
   label: services
