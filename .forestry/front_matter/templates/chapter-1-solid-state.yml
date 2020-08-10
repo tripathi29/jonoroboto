@@ -96,11 +96,11 @@ fields:
       name: disabled
       label: disabled
     - type: boolean
-      name: enableDNT
-      label: enableDNT
-    - type: boolean
       name: simple
       label: simple
+    - type: boolean
+      name: enableDNT
+      label: enableDNT
   - type: field_group
     name: vimeo
     label: vimeo
