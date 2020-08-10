@@ -48,7 +48,7 @@ fields:
       label: name
     - type: text
       name: url
-      label: url
+      label: www.tripathi.co.in
     - type: number
       name: weight
       label: weight
