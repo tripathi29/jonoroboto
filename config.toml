@@ -9,6 +9,11 @@ paginate = 3
 theme = "casper3"
 title = "Hugo Themes"
 [[menu.main]]
+identifier = ""
+name = ""
+url = ""
+weight = nil
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
