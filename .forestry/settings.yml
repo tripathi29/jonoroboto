@@ -5,6 +5,8 @@ admin_path: 'chemistry institute '
 webhook_url: 
 sections:
 - type: heading
+  label: 'chapter 1 solid state '
+- type: heading
   label: Content
 - type: directory
   path: content/post
